@@ -1,32 +1,34 @@
- practicas_pasante
-Prácticas para familiarizarse con el flujo de trabajo en ggGPrimero vamos a empezar con los issues, por lo que les dejo una receta de cómo hacer un bizcochuelo:
+🧠 Consigna: Maquetar una página web con HTML semántico
+Hoy vamos a enfocarnos en la estructura base de una página web usando HTML. El objetivo no es que se vea “linda” todavía, sino que tenga coherencia estructural, sea entendible para otras personas (y para las máquinas), y esté bien armada para luego aplicar estilos y funcionalidades.
 
-Ingredientes
-6 huevos
+📝 Tareas del día
 
-180 g de azúcar
+1. Investigar brevemente (escribir 2-3 líneas sobre cada punto):
+   ✅ ¿Por qué se usa HTML en una página web?
 
-180 g de harina 0000
+✅ ¿Qué significa que HTML tenga “semántica”? Ejemplos de etiquetas semánticas.
 
-Esencia de vainilla o ralladura de cítricos, a gusto
+✅ ¿Cómo influye la semántica en los motores de búsqueda como Google (SEO)?
 
-Molde de 24 centímetros
+✅ ¿Qué es la accesibilidad web y cómo se relaciona con HTML?
 
-### Preparación
-### Paso 1
-Con la ayuda de una batidora eléctrica, batir los huevos con el azúcar hasta que la mezcla cambie de color y se vuelva más clara. Para verificar el punto, levantar el batidor y dibujar letras sobre el batido: si se sostienen, está perfecto.
+🧭 Pista: Podés usar recursos como MDN Web Docs, W3Schools, freeCodeCamp, entre otros.
 
-### Paso 2
-Tamizar la harina con un colador para evitar la presencia de grumos.
+2. Armar la estructura base de una página HTML
+   Usando etiquetas semánticas, maquetar la estructura principal de una página de la NASA. El contenido puede ser ficticio o de ejemplo, pero debe representar secciones reales que podría tener una web como esa.
 
-### Paso 3
-Sin batir, y con la ayuda de una espátula de goma, agregar la harina y realizar movimientos envolventes para no bajar el batido.
+Debe incluir al menos:
 
-### Paso 4
-Verter la mezcla en un molde de torta enmantecado y enharinado. Llevar al horno a 160 ºC por 45 a 60 minutos.
+<header>: con un título y/o menú de navegación
 
-### Tips
-Añadir una cucharadita de canela o ralladura de limón a la mezcla para darle un sabor más intenso y aromático.
+<main>: contenido principal (puede incluir <section>, <article>, etc.)
 
-Decorar con azúcar impalpable y rodajas de frutas frescas para una presentación más atractiva y saludable.
+<aside> (opcional): para contenido secundario como enlaces o información adicional
 
+<footer>: pie de página
+
+🎁 Bonus: usar el atributo alt en imágenes, y estructurar los textos con <h1>, <h2>, etc.
+
+🎯 Objetivo del día
+Terminar con un archivo .html bien estructurado, usando etiquetas semánticas, limpio y entendible.
+No se evalúa el diseño hoy: solo estructura y buenas prácticas.
